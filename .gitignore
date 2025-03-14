@@ -1,3 +1,13 @@
-# public
+content
+sass
+static
+templates
+CODE_OF_CONDUCT.md
+config.toml*
+CONTRIBUTING.md
+LICENSE
+netlify.toml
+screenshot.png
+theme.toml
 .vs
 .vscode
