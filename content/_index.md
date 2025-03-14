@@ -1,15 +1,15 @@
 +++
-title = "Modern Documentation Theme"
+title = "Not Secure by Default"
 
 
 # The homepage contents
 [extra]
-lead = '<b>AdiDoks</b> is a modern documentation theme, which is a port of the Hugo theme <a href="https://github.com/h-enk/">Doks</a> for Zola.'
+lead = 'A place for community sourced documentation and scripts'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
-repo_version = "GitHub v0.1.0"
+repo_version = ""
 repo_license = "Open-source MIT License."
-repo_url = "https://github.com/aaranxu/adidoks"
+repo_url = ""
 
 # Menu items
 [[extra.menu.main]]
@@ -25,8 +25,8 @@ url = "/blog/"
 weight = 20
 
 [[extra.list]]
-title = "Security aware"
-content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
+title = "NSbD docs"
+content = 'Documentation providing guidance on securing applications and services that are not secure by default.'
 
 [[extra.list]]
 title = "Fast by default ⚡️"
