@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://notsecurebydefault.github.io"
+base_url = "https://notsecurebydefault.com"
 title = "NSbD"
 description = "Some random things that may help"
 
@@ -70,7 +70,7 @@ timezone = "UTC"
 
 # Edit page on reposity or not
 edit_page = false
-docs_repo = "https://notsecurebydefault.github.io/docs"
+docs_repo = "https://notsecurebydefault.com/docs"
 repo_branch = "main"
 
 ## Math settings
