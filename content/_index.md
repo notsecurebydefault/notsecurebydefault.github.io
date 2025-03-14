@@ -36,9 +36,9 @@ content = 'Documentation providing guidance on securing applications and service
 # title = "SEO-ready"
 # content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
 
-[[extra.list]]
-title = "Full text search"
-content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
+# [[extra.list]]
+# title = "Full text search"
+# content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
 
 # [[extra.list]]
 # title = "Page layouts"
